@@ -17,8 +17,7 @@
 ![education](assets/education.svg)
 
 
-![stats](https://github-stats-extended.vercel.app/api?username=rayen-khammar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=5eead4&icon_color=f2c14e&text_color=d3dce6&ring_color=5eead4)
-![langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rayen-khammar&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=5eead4&text_color=d3dce6)
+![stats](https://github-stats-extended.vercel.app/api?username=rayen-khammar&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=5eead4&icon_color=f2c14e&text_color=d3dce6&ring_color=5eead4)![langs](https://github-stats-extended.vercel.app/api/top-langs/?username=rayen-khammar&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0e14&title_color=5eead4&text_color=d3dce6)
 
 
 ![footer](assets/footer.svg)
