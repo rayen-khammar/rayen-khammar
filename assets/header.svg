@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e2732" stroke-width="0.4" opacity="0.35"/>
     </pattern>
     
   </defs>
-  <rect x="0" y="0" width="900" height="300" rx="12" fill="#0a0e14"/>
-  <rect x="1" y="1" width="898" height="298" rx="11" fill="url(#grid)"/>
-  <rect x="1" y="1" width="898" height="298" rx="11" fill="none" stroke="#1e2732" stroke-width="1.4"/>
+  <rect x="0" y="0" width="900" height="330" rx="12" fill="#0a0e14"/>
+  <rect x="1" y="1" width="898" height="328" rx="11" fill="url(#grid)"/>
+  <rect x="1" y="1" width="898" height="328" rx="11" fill="none" stroke="#1e2732" stroke-width="1.4"/>
   
   <rect x="0" y="0" width="900" height="34" rx="10" fill="#0f151d"/>
   <rect x="0" y="16" width="900" height="18" fill="#0f151d"/>
@@ -27,14 +27,17 @@
   <text x="28" y="160" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#5c6773">Software Engineering Student · INSAT — University of Carthage</text>
 
   <text x="28" y="196" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#f2c14e">▸</text>
-  <text x="44" y="196" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Computer Vision &amp; Applied AI</text>
+  <text x="44" y="196" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Full-Stack &amp; Systems Development</text>
 
   <text x="28" y="220" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#f2c14e">▸</text>
-  <text x="44" y="220" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Vice Chairman, IEEE INSAT Computer Society</text>
+  <text x="44" y="220" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Competitive Programming</text>
 
   <text x="28" y="244" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#f2c14e">▸</text>
-  <text x="44" y="244" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Brand &amp; Visual Designer since 2022</text>
+  <text x="44" y="244" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Computer Vision &amp; Applied AI</text>
 
-  <line x1="28" y1="264" x2="872" y2="264" stroke="#1e2732" stroke-width="1"/>
-  <text x="28" y="286" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#3b4351">status: <tspan fill="#4ade80">online</tspan> · building something, as usual</text>
+  <text x="28" y="268" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#f2c14e">▸</text>
+  <text x="44" y="268" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#d3dce6">Brand &amp; Visual Designer and Video Editor since 2020</text>
+
+  <line x1="28" y1="292" x2="872" y2="292" stroke="#1e2732" stroke-width="1"/>
+  <text x="28" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#3b4351">status: <tspan fill="#4ade80">online</tspan> · building something, as usual</text>
 </svg>
