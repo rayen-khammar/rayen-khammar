@@ -3,7 +3,6 @@
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e2732" stroke-width="0.4" opacity="0.35"/>
     </pattern>
-    
   </defs>
   <rect x="0" y="0" width="900" height="460" rx="12" fill="#0a0e14"/>
   <rect x="1" y="1" width="898" height="458" rx="11" fill="url(#grid)"/>
@@ -17,34 +16,98 @@
   <text x="450.0" y="21" fill="#5c6773" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" text-anchor="middle">02 — stack</text>
   <line x1="0" y1="34" x2="900" y2="34" stroke="#1e2732" stroke-width="1"/>
 
-<text x="28" y="66" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13"><tspan fill="#4ade80">rayen</tspan><tspan fill="#5c6773">@</tspan><tspan fill="#5eead4">insat</tspan><tspan fill="#5c6773">:~$ </tspan><tspan fill="#d3dce6">ls -R ./skills</tspan></text><rect x="255" y="54" width="8" height="15" fill="#5eead4">
+  <text x="28" y="66" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13"><tspan fill="#4ade80">rayen</tspan><tspan fill="#5c6773">@</tspan><tspan fill="#5eead4">insat</tspan><tspan fill="#5c6773">:~$ </tspan><tspan fill="#d3dce6">ls -R ./skills</tspan></text>
+  <rect x="255" y="54" width="8" height="15" fill="#5eead4">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.51;1;1" dur="1s" repeatCount="indefinite"/>
-  </rect><text x="28" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#5eead4">languages/</text><rect x="190" y="89" width="35" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">C</text><rect x="235" y="89" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="248" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">C++</text><rect x="298" y="89" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="311" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Java</text><rect x="370" y="89" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="383" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Python</text><rect x="460" y="89" width="116" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="473" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">JavaScript</text><rect x="586" y="89" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="599" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">PHP</text><rect x="649" y="89" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="662" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">SQL·PLSQL</text><text x="28" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#f472b6">computer_vision/</text><rect x="190" y="131" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">OpenCV</text><rect x="280" y="131" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="293" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">MediaPipe</text><rect x="397" y="131" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="410" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">YOLO</text><text x="28" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#a78bfa">ai_ml/</text><rect x="190" y="173" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">NLP</text><rect x="253" y="173" width="188" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="266" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Sentiment-Analysis</text><rect x="451" y="173" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="464" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">RAG</text><text x="28" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#f2c14e">frameworks/</text><rect x="190" y="215" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">React</text><rect x="271" y="215" width="125" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="284" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Spring-Boot</text><rect x="406" y="215" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="419" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">JavaFX</text><rect x="496" y="215" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="509" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">REST-APIs</text><rect x="613" y="215" width="152" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="626" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">BeautifulSoup4</text><text x="28" y="272" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#60a5fa">databases/</text><rect x="190" y="257" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="272" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">MySQL</text><rect x="271" y="257" width="116" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="284" y="272" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">PostgreSQL</text><text x="28" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#4ade80">security/</text><rect x="190" y="299" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">OSINT</text><rect x="271" y="299" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="284" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Wireshark</text><rect x="388" y="299" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="401" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">CTFs</text><text x="28" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#fb923c">tooling/</text><rect x="190" y="341" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Git</text><rect x="253" y="341" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="266" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Linux</text><text x="28" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#f472b6">design/</text><rect x="190" y="383" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="203" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Figma</text><rect x="271" y="383" width="206" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="284" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Adobe-Creative-Suite</text><rect x="487" y="383" width="89" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
-        <text x="500" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Blender</text></svg>
+  </rect>
+
+  <!-- languages/ -->
+  <text x="28" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#5eead4">languages/</text>
+  <rect x="210" y="89" width="35" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">C</text>
+  <rect x="255" y="89" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="268" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">C++</text>
+  <rect x="318" y="89" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="331" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Java</text>
+  <rect x="390" y="89" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="403" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Python</text>
+  <rect x="480" y="89" width="215" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="493" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">JavaScript/TypeScript</text>
+  <rect x="705" y="89" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="718" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">PHP</text>
+  <rect x="768" y="89" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="781" y="104" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">SQL·PLSQL</text>
+
+  <!-- web_dev/ -->
+  <text x="28" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#60a5fa">web_dev/</text>
+  <rect x="210" y="131" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">HTML</text>
+  <rect x="282" y="131" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="295" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">CSS</text>
+  <rect x="345" y="131" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="358" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">React</text>
+  <rect x="426" y="131" width="125" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="439" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Spring-Boot</text>
+  <rect x="561" y="131" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="574" y="146" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">REST-APIs</text>
+
+  <!-- computer_vision/ -->
+  <text x="28" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#f472b6">computer_vision/</text>
+  <rect x="210" y="173" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">OpenCV</text>
+  <rect x="300" y="173" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="313" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">MediaPipe</text>
+  <rect x="417" y="173" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="430" y="188" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">YOLO</text>
+
+  <!-- ai_ml/ -->
+  <text x="28" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#a78bfa">ai_ml/</text>
+  <rect x="210" y="215" width="188" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Sentiment-Analysis</text>
+  <rect x="408" y="215" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="421" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">NLP</text>
+  <rect x="471" y="215" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="484" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">RAG</text>
+  <rect x="534" y="215" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="547" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">LangChain</text>
+  <rect x="651" y="215" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="664" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">LangGraph</text>
+  <rect x="768" y="215" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="781" y="230" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Agents</text>
+
+  <!-- databases/ -->
+  <text x="28" y="272" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#38bdf8">databases/</text>
+  <rect x="210" y="257" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="272" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">MySQL</text>
+  <rect x="291" y="257" width="116" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="304" y="272" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">PostgreSQL</text>
+
+  <!-- tools/ -->
+  <text x="28" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#fb923c">tools/</text>
+  <rect x="210" y="299" width="80" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">JavaFX</text>
+  <rect x="300" y="299" width="152" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="313" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">BeautifulSoup4</text>
+  <rect x="462" y="299" width="53" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="475" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Git</text>
+  <rect x="525" y="299" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="538" y="314" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Linux</text>
+
+  <!-- security/ -->
+  <text x="28" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#4ade80">security/</text>
+  <rect x="210" y="341" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">OSINT</text>
+  <rect x="291" y="341" width="107" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="304" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Wireshark</text>
+  <rect x="408" y="341" width="62" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="421" y="356" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">CTFs</text>
+
+  <!-- design/ -->
+  <text x="28" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#f472b6">design/</text>
+  <rect x="210" y="383" width="71" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="223" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Figma</text>
+  <rect x="291" y="383" width="206" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="304" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Adobe-Creative-Suite</text>
+  <rect x="507" y="383" width="89" height="21" rx="5" fill="#0d1218" stroke="#1e2732" stroke-width="1"/>
+  <text x="520" y="398" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" fill="#d3dce6">Blender</text>
+</svg>
